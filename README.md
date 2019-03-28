@@ -2,6 +2,11 @@
 
 Remember
 
+- brew
+- vagrant
+- vagrant-manager
+- virtualbox
+
 - Safari
 - Chrome
 - Firefox
@@ -11,19 +16,21 @@ Remember
 - Docker
 - zsh
 - git
-- brew
 - ansible
 - python
-- MS Teams
-- Cisco Jabber
 - Alfred
 - Spectacle
 - Android Studio
 - xCode
 - Office365
-- FortiClient
-- Discord
 - GoToMeeting
 - Zoom.us
 - MS Remote Desktop
 - Robo 3T
+
+Not anymore
+
+- MS Teams
+- Cisco Jabber
+- FortiClient
+- Discord
