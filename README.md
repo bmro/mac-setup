@@ -5,15 +5,16 @@ Remember
 - Brew (https://brew.sh/)
 - Krypton (https://krypt.co/)
 - Chrome 
-- Firefox
-- VSCode
-- iTerm2
-- Docker
-- zsh
-- git
-- Spectacle
-- xCode
-- Office365
+- Firefox 
+- VSCode 
+- iTerm2 
+- Docker 
+- zsh 
+- git 
+- Spectacle  
+- xCode 
+- Office365 
+- Mendeley
 
 Not anymore
 
