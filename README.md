@@ -2,35 +2,35 @@
 
 Remember
 
-- brew
-- vagrant
-- vagrant-manager
-- virtualbox
-
-- Safari
-- Chrome
+- Brew (https://brew.sh/)
+- Krypton (https://krypt.co/)
+- Chrome 
 - Firefox
-- Vivaldi
 - VSCode
 - iTerm2
 - Docker
 - zsh
 - git
+- Spectacle
+- xCode
+- Office365
+
+Not anymore
+
+- Vivaldi
+- MS Teams
+- Cisco Jabber
+- FortiClient
+- Discord
 - ansible
 - python
 - Alfred
-- Spectacle
+- vagrant
+- vagrant-manager
+- virtualbox
 - Android Studio
-- xCode
-- Office365
 - GoToMeeting
 - Zoom.us
 - MS Remote Desktop
 - Robo 3T
 
-Not anymore
-
-- MS Teams
-- Cisco Jabber
-- FortiClient
-- Discord
