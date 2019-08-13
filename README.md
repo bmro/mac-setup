@@ -15,6 +15,7 @@ Remember
 - xCode 
 - Office365 
 - Mendeley
+- Terraform
 
 Not anymore
 
